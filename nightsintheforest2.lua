@@ -139,4 +139,4 @@ end)
 
 local commit = shared.CustomCommit and tostring(shared.CustomCommit) or shared.StagingMode and "staging" or "b6ac96818366b0dee63136fa5a6d3649b866130e"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/paltepmark/VW-Add/"..tostring(commit).."/newnightsintheforest.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/paltepmark/VW-Add/refs/heads/main/newnightsintheforest.lua", true))()
