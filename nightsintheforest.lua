@@ -117,7 +117,7 @@ function KeyService:CreateInterface()
     Title.Size = UDim2.new(1, -20, 1, 0)
     Title.Position = UDim2.new(0, 10, 0, 0)
     Title.BackgroundTransparency = 1
-    Title.Text = "DCIB X 4AM 99 NIGHTS"
+    Title.Text = "SENSIE 99 NIGHTS OP SCRIPT"
     Title.TextColor3 = Color3.fromRGB(255, 255, 255)
     Title.TextSize = 16
     Title.Font = Enum.Font.GothamBold
